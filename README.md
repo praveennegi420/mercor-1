@@ -1,7 +1,7 @@
 # On Scroll Animation - Section 1
 
 ### Live Demo
-https://mercor-section2.netlify.app/
+https://mercor-section1.netlify.app/
 
 ### Installation
 
